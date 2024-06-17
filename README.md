@@ -6,11 +6,7 @@
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Environment Variables](#environment-variables)
-- [Running the Application](#running-the-application)
-- [API Endpoints](#api-endpoints)
-- [Security Considerations](#security-considerations)
-- [Scenarios Handled in Routes](#scenarios-handled-in-routes)
+- [Scenarios](#scenarios)
 - [Contributions](#contributions)
 
 ## Project Description
@@ -143,20 +139,8 @@ Both parts leverage Java RMI (Remote Method Invocation) to facilitate communicat
    - Click on `Terminal -> New Terminal` for each of the server and client directories.
    - Execute the same commands as mentioned above for CMD execution.
 
-## Environment Variables
 
-No specific environment variables are required for this project.
-
-## API Endpoints
-
-This project does not include API endpoints as it is based on Java RMI for client-server communication.
-
-## Security Considerations
-
-- Ensure secure handling of file uploads to prevent malicious file uploads.
-- Implement authentication and authorization mechanisms for sensitive operations (e.g., file deletion, renaming).
-
-## Scenarios Handled in Routes
+## Scenarios
 
 ### File Upload/Download System
 
