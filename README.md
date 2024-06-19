@@ -55,7 +55,12 @@ Both parts leverage Java RMI (Remote Method Invocation) to facilitate communicat
    java 21.0.2 2024-01-16 LTS
    Java(TM) SE Runtime Environment (build 21.0.2+13-LTS-58)
    Java HotSpot(TM) 64-Bit Server VM (build 21.0.2+13-LTS-58, mixed mode, sharing)
-   ```
+3. Clone the repository:
+   ```sh
+   git clone https://github.com/meggitt/JavaRMI.git
+   cd movie-search-engine
+   ```   ```
+
 
 ### (Optional) Configure IDE
 
