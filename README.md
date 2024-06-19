@@ -59,7 +59,7 @@ Both parts leverage Java RMI (Remote Method Invocation) to facilitate communicat
    ```sh
    git clone https://github.com/meggitt/JavaRMI.git
    cd movie-search-engine
-   ```   ```
+   ```
 
 
 ### (Optional) Configure IDE
