@@ -58,7 +58,7 @@ Both parts leverage Java RMI (Remote Method Invocation) to facilitate communicat
 3. Clone the repository:
    ```sh
    git clone https://github.com/meggitt/JavaRMI.git
-   cd movie-search-engine
+   cd JavaRMI
    ```
 
 
